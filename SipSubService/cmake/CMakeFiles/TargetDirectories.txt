@@ -1,0 +1,3 @@
+/mnt/hgfs/ubuntu-share/new_share/SipSubService/cmake/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubuntu-share/new_share/SipSubService/cmake/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntu-share/new_share/SipSubService/cmake/CMakeFiles/SipSubService.dir
